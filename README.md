@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="400" src="https://s6.gifyu.com/images/Lazy_Cat_Sleeping_cat_transparent_by_Icons8.gif" />
+<img align="center" width="400" src="https://s6.gifyu.com/images/Lazy_Cat_Sleeping_cat_transparent_by_Icons8.gif" />
 
 <div>
   <a href="https://github.com/lukaskunn">

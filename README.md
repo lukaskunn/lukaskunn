@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
 <img align="center" width="400" src="https://s6.gifyu.com/images/Lazy_Cat_Sleeping_cat_transparent_by_Icons8.gif" />
-
+</p>
 <div>
   <a href="https://github.com/lukaskunn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukaskunn&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>

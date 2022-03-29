@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-<img align="center" width="400" src="https://s6.gifyu.com/images/Lazy_Cat_Sleeping_cat_transparent_by_Icons8.gif" />
+<img align="center" width="400" src="https://c.tenor.com/Unrbryt4npgAAAAC/anime-sad.gif" />
 </p>
 <div>
   <a href="https://github.com/lukaskunn">

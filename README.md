@@ -7,7 +7,7 @@
     graduated in Computer Science from FEI University.
     Im from Brasil/São Paulo and currently working at <a href="https://www.corebiz.ag/en">Corebiz.</a> Im a tech
     enthusiast and i spend my day working on my job and my personal projects. You can see more about my projects on my
-    <a href="">Portfolio</a>
+    <a href="https://lucasoliveira.dev.br">Portfolio</a>
   </p>
 </div>
 <div class="technologies" style="display: flex; margin-bottom: 20px;">
